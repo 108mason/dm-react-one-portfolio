@@ -8,7 +8,7 @@ import restapi from "../assets/restapi.png";
 import testng from "../assets/testng.png";
 import database from "../assets/database.png";
 import sql from "../assets/sql.png";
-import jenkins from "../assets/jenkins.png";
+// import jenkins from "../assets/jenkins.png";
 
 
 
