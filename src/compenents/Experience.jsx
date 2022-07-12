@@ -5,21 +5,21 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 // import nextjs from "../assets/nextjs.png";
-import java from "../assets/java.png";
+// import java from "../assets/java.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
-import selenium from "../assets/selenium.png";
-import appium from "../assets/appium.png";
-import restapi from "../assets/restapi.png";
-import testng from "../assets/testng.png";
-import database from "../assets/database.png";
-import sql from "../assets/sql.png";
+// import selenium from "../assets/selenium.png";
+// import appium from "../assets/appium.png";
+// import restapi from "../assets/restapi.png";
+// import testng from "../assets/testng.png";
+// import database from "../assets/database.png";
+// import sql from "../assets/sql.png";
 import bootstrap from "../assets/bootstrap.png";
 // import photoshop from "../assets/photoshop.png";
 import wordpress from "../assets/wordpress.png";
 // import shopify from "../assets/shopify.png";
-import jenkins from "../assets/jenkins.png";
-
+// import jenkins from "../assets/jenkins.png";
+// status
 
 
 
