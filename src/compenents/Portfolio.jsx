@@ -1,6 +1,6 @@
 import React from 'react'
 // import arrayDestruct from '../assets/portfolio/arrayDestruct.jpg'
-import installNode from '../assets/portfolio/installNode.jpg'
+// import installNode from '../assets/portfolio/installNode.jpg'
 // import navbar from '../assets/portfolio/navbar.jpg'
 // import reactParallax from '../assets/portfolio/reactParallax.jpg'
 // import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
@@ -9,6 +9,7 @@ import GenAxia from '../assets/portfolio/GenAxia.png'
 import Go2films from '../assets/portfolio/Go2films.png'
 import Weatherapp from '../assets/portfolio/Weatherapp.png'
 import nopcomm from '../assets/portfolio/nopcomm.png'
+import todolist from '../assets/portfolio/todolist.png'
 // test test
 const Portfolio = () => {
 
@@ -32,7 +33,7 @@ const Portfolio = () => {
         },
         {
             id: 5, 
-            src: installNode
+            src: todolist
         },
         {
             id: 6, 
