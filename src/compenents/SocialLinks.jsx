@@ -14,7 +14,7 @@ const links = [
       LinkedIn <FaLinkedin  size={30}/>
       </>
     ),
-    href: 'https://linkedin.com',
+    href: 'https://www.linkedin.com/in/daniel-mason-864a1399/',
     style: 'rounded-tr-md'
   },
   {
