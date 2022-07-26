@@ -41,7 +41,7 @@ const Portfolio = () => {
             id: 4, 
             src: nopcomm,
             code: 'https://github.com/108mason/FullStackAutomationProject',
-            lnk:'https://github.com/108mason/FullStackAutomationProject'
+            lnk:'https://www.youtube.com/watch?v=NdjY1gnYHrw'
             
         },
         {
