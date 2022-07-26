@@ -19,7 +19,7 @@ const Portfolio = () => {
             id: 1, 
             src: GenAxia, 
             code: 'https://github.com/108mason/Axia-General',
-            lnk: 'https://github.com/108mason/Axia-General'
+            lnk: 'https://profound-madeleine-8c129b.netlify.app/'
             
 
         },
