@@ -4,12 +4,13 @@ import React from 'react'
 // import navbar from '../assets/portfolio/navbar.jpg'
 // import reactParallax from '../assets/portfolio/reactParallax.jpg'
 // import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
-import reactWeather from '../assets/portfolio/reactWeather.jpg'
+// import reactWeather from '../assets/portfolio/reactWeather.jpg'
 import GenAxia from '../assets/portfolio/GenAxia.png'
 import Go2films from '../assets/portfolio/Go2films.png'
 import Weatherapp from '../assets/portfolio/Weatherapp.png'
 import nopcomm from '../assets/portfolio/nopcomm.png'
 import todolist from '../assets/portfolio/todolist.png'
+import RSPGame from '../assets/portfolio/RSPGame.png'
 // test test
 const Portfolio = () => {
 
@@ -53,9 +54,9 @@ const Portfolio = () => {
         },
         {
             id: 6, 
-            src: reactWeather,
-            code: 'https://github.com/108mason/ResponsiveWeatherAppInReact',
-            lnk: 'https://bright-otter-664eb7.netlify.app/'
+            src: RSPGame,
+            code: 'https://github.com/108mason/RockPaperScissorsGame',
+            lnk: 'https://incredible-gumdrop-b4bca1.netlify.app/'
            
         },
 
