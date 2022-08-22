@@ -16,15 +16,11 @@ const Portfolio = () => {
 
     const Portfolios = [
 
-      {
+        {
             id: 1, 
             src: GenAxia, 
             code: 'https://github.com/108mason/Axia-General',
-<<<<<<< HEAD
             lnk: 'https://github.com/108mason/Axia-General'
-=======
-            lnk: 'https://profound-madeleine-8c129b.netlify.app/'
->>>>>>> ca351b935c9373edc180bb61f224845d88f96223
             
 
         },
@@ -46,11 +42,7 @@ const Portfolio = () => {
             id: 4, 
             src: nopcomm,
             code: 'https://github.com/108mason/FullStackAutomationProject',
-<<<<<<< HEAD
             lnk:'https://github.com/108mason/FullStackAutomationProject'
-=======
-            lnk:'https://youtu.be/NdjY1gnYHrw'
->>>>>>> ca351b935c9373edc180bb61f224845d88f96223
             
         },
         {
@@ -62,18 +54,11 @@ const Portfolio = () => {
         },
         {
             id: 6, 
-<<<<<<< HEAD
             src: RSPGame,
             code: 'https://github.com/108mason/RockPaperScissorsGame',
             lnk: 'https://incredible-gumdrop-b4bca1.netlify.app/'
-=======
-            src: reactWeather,
-            code: 'https://github.com/108mason/ResponsiveWeatherAppInReact',
-            lnk: 'https://bright-otter-664eb7.netlify.app/'
->>>>>>> ca351b935c9373edc180bb61f224845d88f96223
            
         },
-       
 
     ]
 
