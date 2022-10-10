@@ -7,7 +7,7 @@ import nopcomm from '../assets/portfolio/nopcomm.png';
 import todolist from '../assets/portfolio/todolist.png';
 import RSPGame from '../assets/portfolio/RSPGame.png';
 import memegenerator from '../assets/portfolio/memegenerator.PNG';
-import Tenzo from '../assets/portfolio/Tenzo.PNG';
+import Tenzo from '../assets/portfolio/Tenzo.png';
 
 const Portfolio = () => {
 
