@@ -59,6 +59,13 @@ const Portfolio = () => {
             lnk: 'https://incredible-gumdrop-b4bca1.netlify.app/'
            
         },
+        {
+            id: 7, 
+            src: RSPGame,
+            code: 'https://github.com/108mason/RockPaperScissorsGame',
+            lnk: 'https://incredible-gumdrop-b4bca1.netlify.app/'
+           
+        },
 
     ]
 
