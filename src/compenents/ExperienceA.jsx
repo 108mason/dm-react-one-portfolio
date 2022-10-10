@@ -8,7 +8,6 @@ import restapi from "../assets/restapi.png";
 import testng from "../assets/testng.png";
 import database from "../assets/database.png";
 import sql from "../assets/sql.png";
-// import jenkins from "../assets/jenkins.png";
 
 
 
@@ -55,7 +54,7 @@ export const ExperienceA = () => {
         {
             id: 7,
             src: sql,
-            title: 'SQL',
+            title: 'memegenerator',
             style: 'shadow-blue-500'
         },
         

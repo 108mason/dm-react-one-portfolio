@@ -1,17 +1,14 @@
 import React from 'react'
-// import arrayDestruct from '../assets/portfolio/arrayDestruct.jpg'
-// import installNode from '../assets/portfolio/installNode.jpg'
-// import navbar from '../assets/portfolio/navbar.jpg'
-// import reactParallax from '../assets/portfolio/reactParallax.jpg'
-// import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
-// import reactWeather from '../assets/portfolio/reactWeather.jpg'
+
 import GenAxia from '../assets/portfolio/GenAxia.png'
 import Go2films from '../assets/portfolio/Go2films.png'
 import Weatherapp from '../assets/portfolio/Weatherapp.png'
 import nopcomm from '../assets/portfolio/nopcomm.png'
 import todolist from '../assets/portfolio/todolist.png'
 import RSPGame from '../assets/portfolio/RSPGame.png'
-// test test
+import memegenerator from "../assets/memegenerator.PNG";
+import tenzies from "../assets/tenzies.png";
+
 const Portfolio = () => {
 
     const Portfolios = [
@@ -61,9 +58,16 @@ const Portfolio = () => {
         },
         {
             id: 7, 
-            src: RSPGame,
-            code: 'https://github.com/108mason/RockPaperScissorsGame',
-            lnk: 'https://incredible-gumdrop-b4bca1.netlify.app/'
+            src: memegenerator,
+            code: 'https://github.com/108mason/memegenerator',
+            lnk: 'https://memegenerator-seven.vercel.app'
+           
+        },
+        {
+            id: 8, 
+            src: tenzies,
+            code: 'https://github.com/108mason/TenziesGame',
+            lnk: 'https://tenzies-three-rho.vercel.app'
            
         },
 
