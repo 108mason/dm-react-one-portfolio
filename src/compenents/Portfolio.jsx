@@ -7,7 +7,7 @@ import nopcomm from '../assets/portfolio/nopcomm.png';
 import todolist from '../assets/portfolio/todolist.png';
 import RSPGame from '../assets/portfolio/RSPGame.png';
 import memegenerator from '../assets/portfolio/memegenerator.PNG';
-import tenzies from '../assets/portfolio/tenzies.PNG';
+import Tenzo from '../assets/portfolio/Tenzo.PNG';
 
 const Portfolio = () => {
 
@@ -65,7 +65,7 @@ const Portfolio = () => {
         },
         {
             id: 8, 
-            src: tenzies,
+            src: Tenzo,
             code: 'https://github.com/108mason/TenziesGame',
             lnk: 'https://tenzies-three-rho.vercel.app'
            
