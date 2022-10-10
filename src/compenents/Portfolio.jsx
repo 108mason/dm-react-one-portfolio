@@ -1,13 +1,13 @@
 import React from 'react'
 
-import GenAxia from '../assets/portfolio/GenAxia.png'
-import Go2films from '../assets/portfolio/Go2films.png'
-import Weatherapp from '../assets/portfolio/Weatherapp.png'
-import nopcomm from '../assets/portfolio/nopcomm.png'
-import todolist from '../assets/portfolio/todolist.png'
-import RSPGame from '../assets/portfolio/RSPGame.png'
-import memegenerator from "../assets/memegenerator.PNG";
-import tenzies from "../assets/tenzies.PNG";
+import GenAxia from '../assets/portfolio/GenAxia.png';
+import Go2films from '../assets/portfolio/Go2films.png';
+import Weatherapp from '../assets/portfolio/Weatherapp.png';
+import nopcomm from '../assets/portfolio/nopcomm.png';
+import todolist from '../assets/portfolio/todolist.png';
+import RSPGame from '../assets/portfolio/RSPGame.png';
+import memegenerator from '../assets/portfolio/memegenerator.PNG';
+import tenzies from '../assets/portfolio/tenzies.PNG';
 
 const Portfolio = () => {
 
